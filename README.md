@@ -1,5 +1,5 @@
 # Google hackathon
-Winning project of the Google Hackathon @ Brainstation July 2021
+Presentation of the winning project of the Google Hackathon @ Brainstation July 2021
 
 Group: The Motley Looking Crew
 
